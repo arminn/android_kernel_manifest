@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="rs" fetch="https://partnergitlab.renesas.solutions/"/>
+  <project path="modules/imagination/ddk" name="v4h-fusion-poc/pvr" remote="rs" revision="android-ddk24-src-test-1" />
+</manifest>
